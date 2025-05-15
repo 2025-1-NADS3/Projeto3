@@ -13,7 +13,7 @@
 ## Descrição:
 
 <p align="center">
-
+<img src = "">
 <p align="center">
   Projeto por Ana Clara Musso, Arthur Felipe, Deborah Pavanelli, Rafael Budoya e Raissa Elias.
 
