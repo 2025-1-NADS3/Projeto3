@@ -10,13 +10,12 @@
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://br.linkedin.com/in/vheltai">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson Silva</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>
 
-## Descrição:
-
 <p align="center">
 <img src = "https://github.com/user-attachments/assets/c6437aa1-5240-49a8-b441-03fc4e7d9e7c" width="900"/>
 <p align="center">
   Projeto por Ana Clara Musso, Arthur Felipe, Deborah Pavanelli, Rafael Budoya e Raissa Elias.
 
+## 📜 Descrição:
 
 ## 🛠 Estrutura de pastas
 
@@ -49,10 +48,29 @@ Aperte no link para visualizar
 ## ⌨︎ Técnicas e Tecnologias utilizadas.
 
 As seguintes ferramentas que foram utilizadas na construção do projeto:
-- [Frontend] Android Studio (Java)
-- Backend: SQLite (banco de dados local)
+- Frontend: Android Studio (Java)
+- Backend: Azure (banco de dados)
 - Autenticação: Firebase Authentication (Google Sign-In e e-mail/senha)
 - Pagamentos: Integração com API financeira para processar transações
+- Design: Figma, Canva, StoryboardThat, Miro.
+  
+## 🗃 Histórico de lançamentos
+A cada atualização os detalhes devem ser lançados aqui.
 
+* 0.1 - 26/03/2025
+    * Tela com função Principal. CONCLUÍDO
+* 0.2 - 27/03/2025
+    * CRUD e Testes de qualidade. CONCLUÍDO
+* 0.3 - 27/03/2025
+    * . CONCLUÍDO
+
+
+ 
+## 🎓 Referências
+
+Aqui estão as referências usadas no projeto.
+  
+## 📋 Licença/License
+<a href="https://github.com/2025-1-NADS3/Projeto3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fecapay</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> © 2025 por </font></font><a href="https://github.com/raissaES"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ana clara, Arthur Felipe, Deborah Pavanelli, Rafael Budoya e Raissa Elias.</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> é licenciado sob </font></font><a href="https://creativecommons.org/licenses/by/4.0/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CC BY 4.0</font></font>
 
 
