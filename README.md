@@ -13,7 +13,7 @@
 ## Descrição:
 
 <p align="center">
-<img src = "">
+<img src = "https://github.com/user-attachments/assets/c6437aa1-5240-49a8-b441-03fc4e7d9e7c" width="900"/>
 <p align="center">
   Projeto por Ana Clara Musso, Arthur Felipe, Deborah Pavanelli, Rafael Budoya e Raissa Elias.
 
