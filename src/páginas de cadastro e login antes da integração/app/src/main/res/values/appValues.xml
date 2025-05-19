@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="stringNome">Nome Completo</string>
+    <string name="stringCurso">Curso</string>
+    <string name="stringSemestre">Semestre</string>
+    <string name="stringRA">RA</string>
+    <string name="stringCPF">CPF</string>
+    <string name="stringEmail">email</string>
+    <string name="stringSenha">Senha</string>
+    <string name="stringBotao1">Sign In</string>
+    <string name="stringCadastro">CADASTRO</string>
+
+
+
+    <color name="cor_primaria">#00DDA3</color>
+    <color name="cor_branco">#FFFFFF</color>
+</resources>
