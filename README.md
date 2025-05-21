@@ -6,7 +6,7 @@
 
 # Projeto: 💲 FECAPAY 💲
 ## Grupo 3
-## Integrantes: <a href="https://br.linkedin.com/in/ana-clara-torres-musso-?trk=public_post_follow-view-profile">Ana Clara Musso</a>, <a href="https://br.linkedin.com/in/deborah-colicchio?trk=people-guest_people_search-card">Deborah Colicchio</a>, <a href="https://br.linkedin.com/in/rafael-budoya-desenvolvedor">Rafael Budoya</a>, <a href="https://www.linkedin.com/in/raissa-elias-873178232/">Raissa Elias Silva</a>. 
+## Integrantes: <a href="https://br.linkedin.com/in/ana-clara-torres-musso-?trk=public_post_follow-view-profile">Ana Clara Musso</a>, <a href="https://www.linkedin.com/in/arthur-alves-3341a8226/">Arthur Alves</a>, <a href="https://br.linkedin.com/in/deborah-colicchio?trk=people-guest_people_search-card">Deborah Colicchio</a>, <a href="https://br.linkedin.com/in/rafael-budoya-desenvolvedor">Rafael Budoya</a>, <a href="https://www.linkedin.com/in/raissa-elias-873178232/">Raissa Elias Silva</a>. 
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/victorbarq/">Victor Bruno Alexander Rosetti de Quiroz</a>, <a href="https://br.linkedin.com/in/vheltai">Vinicius Heltai</a>, <a href="https://www.linkedin.com/in/jefferson-o-silva/">Jefferson Silva</a>, <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/francisco-escobar/">Francisco Escobar</a>
 
