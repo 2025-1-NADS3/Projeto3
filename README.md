@@ -62,6 +62,15 @@ Há também 3 pastas que seguem da seguinte forma:
 <b>imagens</b>: Imagens do sistema
 
 <b>src</b>: Pasta que contém o código fonte.
+
+## 🎥 Prévia do Projeto
+<p align="center">
+  <img src="https://github.com/2025-1-NADS3/Projeto3/blob/main/documentos/Imagens/image1.jpeg" width="200"/>
+  <img src="https://github.com/2025-1-NADS3/Projeto3/blob/main/documentos/Imagens/image2.jpeg" width="200"/>
+  <img src="https://github.com/2025-1-NADS3/Projeto3/blob/main/documentos/Imagens/image4.jpeg" width="200"/>
+  <img src="https://github.com/2025-1-NADS3/Projeto3/blob/main/documentos/Imagens/image5.jpeg" width="200"/>
+</p>
+
 ## 📱 FIGMA 
 Aperte no link para visualizar
 [Link para o figma](https://www.figma.com/design/ZfSY55LMsVBBXbSUND2T2m/FECAPAY?node-id=2230-301)<br>
@@ -104,8 +113,6 @@ Aqui estão as referências usadas no projeto.
 
 [Documentação oficial do Android](https://source.android.com/docs?hl=pt-br)<br>
 [Aplicativos de exemplo](https://www.techtudo.com.br/listas/2019/11/aplicativo-id-estudantil-sete-perguntas-e-respostas-sobre-a-carteirinha.ghtml?)<br>
-
-
 
   
 ## 📋 Licença/License
