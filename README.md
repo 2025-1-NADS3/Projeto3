@@ -73,16 +73,28 @@ As seguintes ferramentas que foram utilizadas na construção do projeto:
 - Backend: Azure (banco de dados)
 - Autenticação: Firebase Authentication (Google Sign-In e e-mail/senha)
 - Design: Figma, Canva, StoryboardThat, Miro.
+
+## Guia de Instalação
+  ## 1 Instale o AndroidStudio
+    * Faça o download do AndroidStudio para o seu sistema operacional e realize sua instalação.
+  ## 2 Baixe o projeto finalizado e o APK
+    * Faça o Download do projeto finalizado disponível nesse repostório e o descompacte, aproveite para baixar nosso apk também.
+  ## 3 Abra o Projeto no AndroidStudio
+    * Com os passos anteriores realizados utilize o AndroidStudio para abrir o projeto.
+  ## 4 Rode a aplicação
+    * Com o projeto aberto, utilize o botão de run para rodá-lo no emulador do AndroidStudio, ou caso prefira pode simplesmente instalar o APK em um dispositivo android
   
 ## 🗃 Histórico de lançamentos
 A cada atualização os detalhes devem ser lançados aqui.
 
-* 0.1 - 26/03/2025
-    * Tela com função Principal. CONCLUÍDO
-* 0.2 - 27/03/2025
-    * CRUD e Testes de qualidade. CONCLUÍDO
-* 0.3 - 27/03/2025
-    * . CONCLUÍDO
+* 0.1 - 22/03/2025
+    * Tela com função Principal, CRUD Básico, Wireframe e Storyboard. CONCLUÍDO
+* 0.2 - 22/04/2025
+    * Banco de dados integrado ao app, Mockup Prototipado e Testes Unitários e de Integração. CONCLUÍDO
+* 0.3 - 18/05/2025
+    * Versão de teste do aplicativo, Análise Heurística de Usabilidade do projeto, Testes de Sistema e Aceitação. CONCLUÍDO
+* 0.4 - 21/05/2025
+    * Versão final do aplicativo com correção no bug do botão de cadastro
 
 
  
