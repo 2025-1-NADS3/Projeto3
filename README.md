@@ -15,7 +15,28 @@
 <p align="center">
   Projeto por Ana Clara Musso, Arthur Felipe, Deborah Pavanelli, Rafael Budoya e Raissa Elias.
 
-## 📜 Descrição:
+## 🏫 Descrição: FecaPay – Sistema de Pagamento Universitário Integrado
+O FecaPay é uma solução de pagamento digital que transforma a carteirinha universitária em uma carteira pré-paga multifuncional. Com o FecaPay, o estudante poderá utilizar sua carteirinha para realizar pagamentos dentro da universidade de forma simples, rápida e segura.
+
+## 💡 Objetivo
+Integrar pagamentos acadêmicos e do dia a dia em um único lugar, proporcionando agilidade e praticidade tanto para os alunos quanto para a instituição.
+
+## ⚙️ Funcionalidades
+
+💳 Carteira Digital Pré-paga: Permite adicionar saldo à carteirinha universitária do aluno.
+
+🧾 Pagamento de Boletos Acadêmicos: Como mensalidades, taxas de matrícula, e outros débitos universitários.
+
+🍔 Consumo em Cantinas e Lojas Parceiras: Utilização do saldo em estabelecimentos dentro do campus.
+
+📲 Gestão via Aplicativo/Web: Consulta de saldo, extrato de transações, e depósitos diretamente pela plataforma.
+
+🎯 Benefícios
+Centraliza funcionalidades acadêmicas e financeiras em uma única carteirinha;
+
+Facilita o controle de gastos pelos alunos e seus responsáveis;
+
+Moderniza a relação entre a universidade e seus estudantes.
 
 ## 🛠 Estrutura de pastas
 
@@ -51,7 +72,6 @@ As seguintes ferramentas que foram utilizadas na construção do projeto:
 - Frontend: Android Studio (Java)
 - Backend: Azure (banco de dados)
 - Autenticação: Firebase Authentication (Google Sign-In e e-mail/senha)
-- Pagamentos: Integração com API financeira para processar transações
 - Design: Figma, Canva, StoryboardThat, Miro.
   
 ## 🗃 Histórico de lançamentos
@@ -69,6 +89,12 @@ A cada atualização os detalhes devem ser lançados aqui.
 ## 🎓 Referências
 
 Aqui estão as referências usadas no projeto.
+
+[Documentação oficial do Android](https://source.android.com/docs?hl=pt-br)<br>
+[Aplicativos de exemplo](https://www.techtudo.com.br/listas/2019/11/aplicativo-id-estudantil-sete-perguntas-e-respostas-sobre-a-carteirinha.ghtml?)<br>
+
+
+
   
 ## 📋 Licença/License
 <a href="https://github.com/2025-1-NADS3/Projeto3"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Fecapay</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> © 2025 por </font></font><a href="https://github.com/raissaES"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">Ana clara, Arthur Felipe, Deborah Pavanelli, Rafael Budoya e Raissa Elias.</font></font></a><font style="vertical-align: inherit;"><font style="vertical-align: inherit;"> é licenciado sob </font></font><a href="https://creativecommons.org/licenses/by/4.0/"><font style="vertical-align: inherit;"><font style="vertical-align: inherit;">CC BY 4.0</font></font>
